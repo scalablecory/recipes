@@ -1,25 +1,25 @@
 # Brown Butter Salted Chocolate Toffee Cookies
 
-Indulge in these decadent cookies that combine the nutty richness of browned butter with the sweet crunch of toffee bits and pockets of melted chocolate. Perfectly balanced with a sprinkle of sea salt, these treats offer a gourmet twist to the classic chocolate chip cookie.
+A gourmet twist on the classic chocolate chip cookie, these marry the nutty richness of browned butter with the sweet crunch of toffee bits and pockets of gooey melted chocolate. Perfectly balanced with a sprinkle of sea salt.
 
 ## Ingredients
 
-- 226g unsalted butter
-- 200g light brown sugar
-- 100g granulated sugar
-- 2 large eggs (about 100g total)
-- 2 tsp (10g) vanilla extract
-- 320g all-purpose flour
-- 1 tsp (5g) baking soda
-- 1/2 tsp (3g) fine sea salt
+- 226g (1 cup) unsalted butter
+- 200g (1 cup, packed) light brown sugar
+- 100g (1/2 cup) granulated sugar
+- 2 large eggs (100g total, about 50g each)
+- 10g (2 tsp) vanilla extract
+- 320g (2 2/3 cups) all-purpose flour
+- 5g (1 tsp) baking soda
+- 3g (1/2 tsp) fine sea salt
 
-- 150g [toffee bits](Golden%20Butter%20Toffee.md), for mixing in.
-- 200g semi-sweet chocolate chips or chunks, for mixing in.
+- 150g (1 cup) [toffee bits](Golden%20Butter%20Toffee.md), for mixing.
+- 200g (1 1/4 cups) semi-sweet chocolate chips or chunks, for mixing.
 - Flaky sea salt, for finishing
 
 ### Tools
 
-- Medium saucepan
+- 1 QT (1L) saucepan
 - Mixing bowls (small, medium, and large)
 - Whisk and spatula
 - Plastic wrap
@@ -58,7 +58,7 @@ Indulge in these decadent cookies that combine the nutty richness of browned but
 
 ### Prepare
 
-- Preheat oven to 350F (175C)
+- Preheat oven to 350°F (175°C)
 - Line baking sheets with parchment paper.
 - Measure sea salt and set aside for use after baking.
 
