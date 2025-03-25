@@ -44,7 +44,7 @@ A rich, rustic soup brings bold flavor. Smoky sausage and creamy white beans sim
 - Measure cooking wine.
 - Measure tomato paste.
 - Strip thyme leaves and mix with salt, black pepper, smoked paprika, bay leaf into a bowl.
-- Line a plate with paper towls (for draining shallots)
+- Line a plate with paper towls. (for draining shallots)
 
 ## Cooking instructions
 
@@ -70,7 +70,7 @@ A rich, rustic soup brings bold flavor. Smoky sausage and creamy white beans sim
 
 11. After soup has simmered for 15 minutes, remove the bay leaf and add in the browned sausage and charred corn. Stir to combine and simmer for an additional 5 minutes.
 
-12. Taste and broth and season with additional salt as needed.
+12. Taste broth and season with additional salt as needed.
 
 ## Serving
 
