@@ -5,7 +5,7 @@ A rich, rustic soup brings bold flavor. Smoky sausage and creamy white beans sim
 ## Ingredients
 
 - 300g andouille sausage
-- 500g cooked cannellini beans (roughly ~800g canned or ~180 dry)
+- 500g cooked drained cannellini beans (roughly ~800g canned or ~180g dry)
 - 200g sweet corn kernels
 - 300g yellow onion (approx 1 large onion)
 - 120g carrot (approx 2 medium carrots)
@@ -48,7 +48,7 @@ A rich, rustic soup brings bold flavor. Smoky sausage and creamy white beans sim
 
 ## Cooking instructions
 
-1. Cook cannellini beans and measure 500g into a bowl.
+1. Cook cannellini beans and measure 500g (drained) into a bowl.
 
 2. Heat cooking oil in soup pot over medium heat.
 
